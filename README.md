@@ -56,12 +56,6 @@ A comprehensive dashboard was built using Plotly to visualize:
 - Cross-platform presence and reach of top tracks.
 - Final insights summarizing key trends in music popularity for 2024.
 
-## Installation and Usage
-
-1. Clone the repository and install the required dependencies.
-2. Use the provided Jupyter notebooks to explore the dataset and generate visualizations.
-3. Run the Plotly dashboard to interactively explore insights from the dataset.
-
 ## Final Insights
 
 - Identified trends in song popularity across multiple platforms.
